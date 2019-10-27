@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DadJokes/static/css/main.93d915a8.chunk.css",
+    "main.js": "/DadJokes/static/js/main.750b10a6.chunk.js",
+    "main.js.map": "/DadJokes/static/js/main.750b10a6.chunk.js.map",
+    "runtime-main.js": "/DadJokes/static/js/runtime-main.80c5de0a.js",
+    "runtime-main.js.map": "/DadJokes/static/js/runtime-main.80c5de0a.js.map",
+    "static/js/2.e7857603.chunk.js": "/DadJokes/static/js/2.e7857603.chunk.js",
+    "static/js/2.e7857603.chunk.js.map": "/DadJokes/static/js/2.e7857603.chunk.js.map",
+    "index.html": "/DadJokes/index.html",
+    "precache-manifest.2cd4d26a5bafbecda549088ad8c47e35.js": "/DadJokes/precache-manifest.2cd4d26a5bafbecda549088ad8c47e35.js",
+    "service-worker.js": "/DadJokes/service-worker.js",
+    "static/css/main.93d915a8.chunk.css.map": "/DadJokes/static/css/main.93d915a8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c5de0a.js",
+    "static/js/2.e7857603.chunk.js",
+    "static/css/main.93d915a8.chunk.css",
+    "static/js/main.750b10a6.chunk.js"
+  ]
+}

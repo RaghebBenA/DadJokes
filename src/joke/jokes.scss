@@ -59,7 +59,17 @@
     }
   }
 }
-
+@media only screen and (max-width: 1024px){
+  .Joke{
+    flex-direction: column;
+    .Joke-buttons{
+      width: 60%;
+    }
+    .Joke-smiley{
+      margin-left: 0;
+    }
+  }
+}
 @keyframes move-up {
     0%,
     50%,
